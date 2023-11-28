@@ -7,5 +7,7 @@ Este software está sob licença GNU Public License v3.0
 ## Instalação
 - Clone este repositório
 - Instale o node.js
+## Autor
+Wellington Wagner F. Sarmento
 
 
